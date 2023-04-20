@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hotstar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help_and_settings">Help and Settings</string>
+    <string name="subscribe_to_enjoy_disney_hotstar">Subscribe to enjoy Disney+ Hotstar</string>
+    <string name="_91_6260396658">+91 6260396658</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="plans_start_at_10">Plans start at $10</string>
+</resources>
